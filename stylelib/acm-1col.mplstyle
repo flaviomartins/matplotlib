@@ -1,2 +1,4 @@
 figure.figsize : 6.3, 4
 
+font.size: 12
+legend.fontsize: 12
