@@ -245,7 +245,7 @@ axes.grid           : True    # display grid or not
 #axes.labelsize      : medium  # fontsize of the x any y labels
 #axes.labelpad       : 5.0     # space between label and axis
 #axes.labelweight    : normal  # weight of the x and y labels
-axes.labelcolor     : 555555
+axes.labelcolor     : black
 #axes.axisbelow      : True    # whether axis gridlines and ticks are below
                                # the axes elements (lines, text, etc)
 
@@ -293,7 +293,7 @@ axes.prop_cycle    : cycler('color', ['348ABD', '7A68A6', 'A60628', '467821', 'C
 #xtick.minor.width    : 0.5    # minor tick width in points
 #xtick.major.pad      : 4      # distance to major tick label in points
 #xtick.minor.pad      : 4      # distance to the minor tick label in points
-xtick.color          : 555555 # color of the tick labels
+xtick.color          : black # color of the tick labels
 #xtick.labelsize      : medium # fontsize of the tick labels
 #xtick.direction      : in     # direction: in, out, or inout
 
@@ -303,7 +303,7 @@ xtick.color          : 555555 # color of the tick labels
 #ytick.minor.width    : 0.5    # minor tick width in points
 #ytick.major.pad      : 4      # distance to major tick label in points
 #ytick.minor.pad      : 4      # distance to the minor tick label in points
-ytick.color          : 555555 # color of the tick labels
+ytick.color          : black # color of the tick labels
 #ytick.labelsize      : medium # fontsize of the tick labels
 #ytick.direction      : in     # direction: in, out, or inout
 

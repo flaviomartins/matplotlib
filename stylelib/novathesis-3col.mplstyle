@@ -1,0 +1,4 @@
+figure.figsize : 1.70, 1.05  # 0.29\textwidth
+
+font.size: 8.0
+legend.fontsize: 8.0
